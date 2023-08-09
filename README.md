@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Netow2005 😁
+## Bem-vindo(a) ao perfil do Netow 😁
 
  <div>
    <a href="https://github.com/netow2005">
