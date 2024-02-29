@@ -1,24 +1,26 @@
 ## Bem-vindo(a) ao perfil do Netow 😁
 
- <div>
-   <a href="https://github.com/netow2005">
-  [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-  [![netow2005](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+ Eu sou estudante de "Sistemas para internet", apaixonado por programação, com foco em backend.
+ 
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Minhas redes sociais abaixo!
- 
-<div> 
- 
-  <a href="https://instagram.com/netodnet" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://https://www.linkedin.com/in/antonio-rodrigues-de-carvalho-neto-523189262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=netow2005&show_icons=true&theme=dark)](https://github.com/netow2005)
+
+
+
+## Linguagens e Ferramentas
+
+Aqui estão algumas das tecnologias que estou familiarizado:
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+
+## Entre em Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](URL-do-seu-LinkedIn)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](URL-do-seu-Instagram)
+
+Vamos conectar e colaborar em projetos incríveis juntos! 😄
+
