@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Netow 😁
 
- Eu sou estudante de "Sistemas para internet", apaixonado por programação, com foco em backend.
+ Eu sou estudante de "Sistemas para internet", apaixonado por programação.
  
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=netow2005&show_icons=true&theme=dark)](https://github.com/netow2005)
