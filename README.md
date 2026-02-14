@@ -3,10 +3,6 @@
  Eu sou estudante de "Sistemas para internet", apaixonado por programação.
  
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=netow2005&show_icons=true&theme=dark)](https://github.com/netow2005)
-
-
-
 ## Linguagens e Ferramentas
 
 Aqui estão algumas das tecnologias que estou familiarizado:
